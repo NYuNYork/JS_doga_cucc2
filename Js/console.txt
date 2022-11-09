@@ -1,0 +1,20 @@
+Opera
+Windows és Linux: CTRL+SHIFT+I
+MAC: CMD+OPT+I
+
+Chrome
+Windows és Linux: CTRL+SHIFT+J
+MAC: CMD+OPT+J
+
+Firefox
+Windows and Linux: CTRL+SHIFT+K
+MAC: CMD+OPT+K
+
+Internet Explorer
+F12
+
+Microsoft Edge
+F12
+
+Safari
+CMD+OPT+C

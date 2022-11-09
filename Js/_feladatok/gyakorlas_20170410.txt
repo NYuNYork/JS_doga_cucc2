@@ -1,0 +1,14 @@
+1. Nyelvvizsga 
+   Tárolni kell a /*Vizsgázó nevét*/, pontszámát, /*megfelt-e vagy nem*/? (60%-tól megfelet)
+   Plusz pontért lehet random-t generálsz (pontszám/százalék) 0-100 között. 
+   Vagy beolvasol mindent konzolról, a vizsgázó nevét mindenképp szükséges!
+   1/a A vizsgzók összpontszáma, és átlaglagpontszáma
+   1/b Hányan kaptak nyelvizsgát? 
+   1/c Ki volt a legeredményesebb vizsgázó?
+
+2. Véletlen számok
+   Generálj 20 véletlen számot (1 - 80 közt)
+   /*Rendezd növekvõ sorrendbe*/
+   Döntsük el, van e 60-as a számok közt. 
+
+(Ami nem derül a feladatból, azt neked kell kitalálni, megadni)
